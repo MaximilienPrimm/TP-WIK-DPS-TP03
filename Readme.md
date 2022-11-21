@@ -1,6 +1,6 @@
 ### Pour build et lancer docker compose
 
-```docker compose up ---build```
+```docker compose up --build```
 
 ### Pour lancer docker compose
 
